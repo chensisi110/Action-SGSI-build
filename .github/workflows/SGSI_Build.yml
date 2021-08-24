@@ -9,7 +9,7 @@ on:
         default: 'https://download.c.realme.com/osupdate/RMX2071_11_OTA_0270_all_Hda9YapmJ4lp.ozip:
         description: 'ZIP_NAME'
         required: true
-        default: 'update.zip'
+        default: 'updat222e.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
