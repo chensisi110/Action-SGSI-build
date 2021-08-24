@@ -6,15 +6,14 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://ip2341096666.out.azhimalayanvh.com/Firmware/Flyme/meizu18_Pro/9.0.1.2/cn/20210527000410/acc3dace/update.zip?ali_redirect_domain=firmware.meizu.com'
-      ZIP_NAME:
+        default: 'https://download.c.realme.com/osupdate/RMX2071_11_OTA_0270_all_Hda9YapmJ4lp.ozip:
         description: 'ZIP_NAME'
         required: true
         default: 'update.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'flyme'
+        default: 'ColorOS'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
